@@ -1,0 +1,26 @@
+{
+  "name": "my-ip",
+  "version": "1.0.0",
+  "description": "Discovery your ip in a simple way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsoaresbruno/my-ip.git"
+  },
+  "keywords": [
+    "Ip",
+    "My",
+    "Ip",
+    "external",
+    "Ip"
+  ],
+  "author": "Bruno Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsoaresbruno/my-ip/issues"
+  },
+  "homepage": "https://github.com/vsoaresbruno/my-ip#readme"
+}
