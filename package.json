@@ -1,5 +1,5 @@
 {
-  "name": "my-ip",
+  "name": "@bruno-soares/my-ip",
   "version": "1.0.0",
   "description": "Discovery your ip in a simple way",
   "main": "index.js",
