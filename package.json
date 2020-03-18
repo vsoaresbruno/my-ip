@@ -1,8 +1,8 @@
 {
-  "name": "@bruno-soares/my-ip",
-  "version": "1.0.0",
+  "name": "discover-my-ip",
+  "version": "1.0.1",
   "description": "Discovery your ip in a simple way",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,10 +17,15 @@
     "external",
     "Ip"
   ],
+  "bin": {
+    "discover-my-ip": "bin/myIp.js"
+  },
+  "preferGlobal": true,
   "author": "Bruno Soares",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vsoaresbruno/my-ip/issues"
   },
-  "homepage": "https://github.com/vsoaresbruno/my-ip#readme"
+  "homepage": "https://github.com/vsoaresbruno/my-ip#readme",
+  "dependencies": {}
 }
