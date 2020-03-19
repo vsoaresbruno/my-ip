@@ -12,10 +12,8 @@
   },
   "keywords": [
     "Ip",
-    "My",
-    "Ip",
-    "external",
-    "Ip"
+    "My Ip",
+    "external Ip"
   ],
   "bin": {
     "discover-my-ip": "bin/myIp.js"
